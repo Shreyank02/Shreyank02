@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working with python and i am a machine learning, deep learning enthusiast. i love to work on projects related to it, i work with python and related libraries like scikit-learn, tensorflow, pandas, numpy, matplotlib, streamlit, etc. <br>i am a quick learner and currently i am learning the fields of Computer vision, NLP and Generative AI.
+I am currently working with python and i am a machine learning, deep learning enthusiast. i love to work on projects related to it, i work with python and related libraries like scikit-learn, tensorflow, pandas, numpy, matplotlib, streamlit, etc. <br>i am a quick learner and currently I am learning the fields of Computer vision, NLP and Generative AI.
 
 
 ## 🌐 Socials:
